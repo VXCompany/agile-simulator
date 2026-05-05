@@ -2,6 +2,8 @@
 A toy simulation for exploring how team composition, WIP limits, and methodology affect throughput. 
 Built as a learning experiment: not a rigorous model, but hopefully a useful thinking tool.
 
+![A sample run](run.png)
+
 ## What it does
 
 Simulates a software delivery backlog being worked on by three kinds of teams:
@@ -34,7 +36,6 @@ either throttles your agents or overloads your humans.
 - NOT a reason to fire your humans or decommission your agents.
 ---
 
-
 ## Setup
 
 Open a terminal and verify Python is available with `python --version`. You want 3.10 or higher.
@@ -43,7 +44,7 @@ To set up the simulation, follow these steps:
 1. Clone the repository: `git clone https://github.com/VXCompany/agile-simulator.git`
 2. Navigate to the project directory: `cd agile-simulator`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the simulation: `notebook carbon-vs-silicon.ipynb`
+4. Run the simulation: `jupyter notebook carbon-vs-silicon.ipynb`
 
 *Built during a VX Company AI Lab experiment. Inspired by the Kanban game and _a few_ conversations about optimal team composition.*
 
