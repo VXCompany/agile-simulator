@@ -46,5 +46,5 @@ To set up the simulation, follow these steps:
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the simulation: `jupyter notebook carbon-vs-silicon.ipynb`
 
-*Built during a VX Company AI Lab experiment. Inspired by the Kanban game and _a few_ conversations about optimal team composition.*
+*Built during a VX Company AI Lab experiment. Inspired by the Kanban game (https://getkanban.com/) and _a few_ conversations about optimal team composition.*
 
