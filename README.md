@@ -34,6 +34,12 @@ either throttles your agents or overloads your humans.
 - NOT a production planning tool. 
 - NOT a substitute for your actual metrics. 
 - NOT a reason to fire your humans or decommission your agents.
+
+## Extension points / next steps
+- Add other work item types, more ad-hoc (incidents, unplanned work)
+- Run Monte Carlo simulation to get metrics as distribution instead of fixed values
+- Add cost metrics and cost model
+- Validate model assumptions with real data
 ---
 
 ## Setup
