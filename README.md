@@ -15,6 +15,8 @@ Simulates a software delivery backlog being worked on by three kinds of teams:
 You can run them under **Scrum** (sprints, ceremonies, retro velocity boost) 
 or **Kanban** (continuous flow, WIP limits, no ceremony overhead) and sweep across WIP limit values to find where each team type peaks.
 
+Explainer video (in Dutch) can be found [here](https://youtu.be/Z4VoYp0ob7A?si=sIfdLmio7ItiJM3v).
+
 ## Key finding
 
 The WIP limit that maximises throughput is very different per team type:
